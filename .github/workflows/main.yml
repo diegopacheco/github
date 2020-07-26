@@ -24,7 +24,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Setup JDK 8
-      run: actions/setup-java@v2
+      run: actions/setup-java@v1
 
     # Runs a set of commands using the runners shell
     - name: Build the Application
