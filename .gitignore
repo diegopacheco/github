@@ -7,6 +7,9 @@ build/
 .bin
 .gradle/
 
+target/
+.idea/
+
 ### Eclipse ###
 
 .metadata
