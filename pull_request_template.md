@@ -25,4 +25,4 @@ Command you run to proof all Tests are 100% passing - No Ignores
 
 [] Number of Stress Tests Added?
 [] Number of Chaos Tests Added?
-[] All Dashbaords, Alerts, Metrics and Centralized log updated and working?
+[] All Dashboards, Alerts, Metrics, and Centralized log updated and working?
