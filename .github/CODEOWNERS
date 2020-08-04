@@ -1,5 +1,5 @@
-# review for all pull requests
-* @diegopacheco
+# Review for all pull requests
+*       @diegopacheco
 
 # Github configs PR reviewr
-/.github/ @diegopacheco
+.github/* @diegopacheco
