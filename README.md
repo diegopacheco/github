@@ -7,3 +7,7 @@ Awesome Github Stuff / POCs
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/diegopacheco/java-pocs) <BR/>
 ![GitHub All Releases](https://img.shields.io/github/downloads/diegopacheco/github/total) <BR/>
 ![CircleCI](https://img.shields.io/circleci/build/github/diegopacheco/github/master)
+
+## Created By
+
+![https://github.com/diegopacheco/](https://avatars1.githubusercontent.com/u/121278?s=460&u=2c6cc72c8c11a44ecbacee98eacad3af45aa2cf1&v=4) <BR/>
